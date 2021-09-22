@@ -7,7 +7,7 @@ Installation instructions - https://www.postman.com/
 
 Starting the application:  
 Windows:
-1. Download BankingApplication-1.0.0.jar
+1. Download BankingApplication-1.0.0.jar from BankingApplication/target/BankingApplication-1.0.0.jar
 2. Hit Windows button + R and a ‘Run’ window will appear on the bottom left part of your screen
 3. Type in ‘cmd’ in the run window
 4. A command prompt will open on your screen. Navigate to the folder where you saved the jar
@@ -15,7 +15,7 @@ Windows:
 6. After a few seconds, the app will start running. Open Postman and you can start using it. For instructions on how to use the app, refer to the ‘How to use’ section.
 
 Mac OS:
-1. Download BankingApplication-1.0.0.jar
+1. Download BankingApplication-1.0.0.jar from BankingApplication/target/BankingApplication-1.0.0.jar
 2. Hit command + space, type in ‘terminal’ and hit enter
 3. Navigate to the folder where you saved the jar
 4. Type in ‘java -jar BankingApplication-1.0.0.jar’
